@@ -2,7 +2,7 @@
 A simple tool useful to mod [Brown Dust 2](https://www.browndust2.com/en-us/) bundles. Thanks to Bingle and Seggss&AN for the help with this repacker.
 
 
-#### NOTE: This tool only works with .skel files, not with .json files.
+#### NOTE: This tool only works with .skel files, not with .json files. And it uses an external [ASTC encoder](https://github.com/ARM-software/astc-encoder) by ARM-software.
 
 ## Before to use this tool:
 
